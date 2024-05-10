@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jun-Young-Seo
-- 👀 I’m interested in ... JAVA, Node.js, Python
+- 👀 I’m interested in ... JAVA, JSP, Python
 - 📫 Email : aa2030822@naver.com
 
 
