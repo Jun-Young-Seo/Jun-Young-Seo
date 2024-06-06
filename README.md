@@ -25,9 +25,8 @@
 <h3 align="center">📫 For contact me📫</h3>
 - 📫 Email : aa2030822@naver.com
 
-<div align="center">
 ![Jun-Young-Seo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-Young-Seo&show_icons=true&theme=radical)
-</div>
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun-Young-Seo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
